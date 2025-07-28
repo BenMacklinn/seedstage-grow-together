@@ -14,9 +14,9 @@ const demoItems = [
     image: 'https://picsum.photos/600/400?random=1', 
     icon: Globe,
     software: [
-      { name: 'Loveable', logo: './ai-tool-logos/lovable.jpg' },
-      { name: 'Figma', logo: './ai-tool-logos/figma.jpg' },
-      { name: 'Cursor', logo: './ai-tool-logos/cursor.jpg' }
+      { name: 'Loveable', logo: '/ai-tool-logos/lovable.jpg' },
+      { name: 'Figma', logo: '/ai-tool-logos/figma.jpg' },
+      { name: 'Cursor', logo: '/ai-tool-logos/cursor.jpg' }
     ]
   },
   { 
@@ -25,9 +25,9 @@ const demoItems = [
     image: 'https://picsum.photos/600/400?random=2', 
     icon: Workflow,
     software: [
-      { name: 'n8n', logo: './ai-tool-logos/n8n.jpg' },
-      { name: 'Zapier', logo: './ai-tool-logos/zapier.jpg' },
-      { name: 'Twilio', logo: './ai-tool-logos/twilio.jpg' }
+      { name: 'n8n', logo: '/ai-tool-logos/n8n.jpg' },
+      { name: 'Zapier', logo: '/ai-tool-logos/zapier.jpg' },
+      { name: 'Twilio', logo: '/ai-tool-logos/twilio.jpg' }
     ]
   },
   { 
@@ -36,10 +36,10 @@ const demoItems = [
     image: 'https://picsum.photos/600/400?random=3', 
     icon: Brain,
     software: [
-      { name: 'ChatGPT', logo: './ai-tool-logos/chatGPT.jpg' },
-      { name: 'Perplexity', logo: './ai-tool-logos/perplexity.jpg' },
-      { name: 'NotebookLM', logo: './ai-tool-logos/notebooklm.jpg' },
-      { name: 'Cursor', logo: './ai-tool-logos/cursor.jpg' }
+      { name: 'ChatGPT', logo: '/ai-tool-logos/chatGPT.jpg' },
+      { name: 'Perplexity', logo: '/ai-tool-logos/perplexity.jpg' },
+      { name: 'NotebookLM', logo: '/ai-tool-logos/notebooklm.jpg' },
+      { name: 'Cursor', logo: '/ai-tool-logos/cursor.jpg' }
     ]
   },
   { 
@@ -48,9 +48,9 @@ const demoItems = [
     image: 'https://picsum.photos/600/400?random=4', 
     icon: Eye,
     software: [
-      { name: 'ElevenLabs', logo: './ai-tool-logos/elevenlabs.jpg' },
-      { name: 'YOLO', logo: './ai-tool-logos/yolo.jpg' },
-      { name: 'OpenCV', logo: './ai-tool-logos/openCV.jpg' }
+      { name: 'ElevenLabs', logo: '/ai-tool-logos/elevenlabs.jpg' },
+      { name: 'YOLO', logo: '/ai-tool-logos/yolo.jpg' },
+      { name: 'OpenCV', logo: '/ai-tool-logos/openCV.jpg' }
     ]
   }
 ];
